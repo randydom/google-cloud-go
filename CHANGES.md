@@ -1,6 +1,13 @@
 # Changes
 
 
+## [0.73.0](https://www.github.com/googleapis/google-cloud-go/compare/v0.72.0...v0.73.0) (2020-11-11)
+
+
+### Features
+
+* **internal/kokoro:** add ability to regen all DocFX YAML ([#3191](https://www.github.com/googleapis/google-cloud-go/issues/3191)) ([e12046b](https://www.github.com/googleapis/google-cloud-go/commit/e12046bc4431d33aee72c324e6eb5cc907a4214a))
+
 ## [0.72.0](https://www.github.com/googleapis/google-cloud-go/compare/v0.71.0...v0.72.0) (2020-11-10)
 
 
